@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "acorn": "^8.11.2",
     "babel-cli": "^6.26.0",
-    "escodegen": "^2.1.0"
+    "escodegen": "^2.1.0",
+    "esprima": "^4.0.1"
   }
 }
